@@ -1,0 +1,190 @@
+2023-06-06 12:05:12.045 INFO curate - 9 @ The script has started
+2023-06-06 12:05:12.107 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/28 with status: 2. Result: ''
+2023-06-06 12:05:19.029 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/289 with status: 0. Result: 'Item: 123456789/289
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/155 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/289 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/155/174 = 200 - OK
+'
+2023-06-06 12:05:25.013 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/281 with status: 0. Result: 'Item: 123456789/281
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/147 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/281 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/147/165 = 200 - OK
+'
+2023-06-06 12:05:30.576 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/291 with status: 0. Result: 'Item: 123456789/291
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/177 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/291 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/177/208 = 200 - OK
+'
+2023-06-06 12:05:35.794 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/279 with status: 0. Result: 'Item: 123456789/279
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/144 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/279 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/144/161 = 200 - OK
+'
+2023-06-06 12:05:41.216 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/270 with status: 0. Result: 'Item: 123456789/270
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/133 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/270 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/133/152 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/133/164 = 200 - OK
+'
+2023-06-06 12:05:46.091 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/297 with status: 0. Result: 'Item: 123456789/297
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/184 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/297 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/184/214 = 200 - OK
+'
+2023-06-06 12:05:50.888 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/290 with status: 0. Result: 'Item: 123456789/290
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/176 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/290 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/176/207 = 200 - OK
+'
+2023-06-06 12:05:56.341 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/274 with status: 0. Result: 'Item: 123456789/274
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/139 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/274 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/139/156 = 200 - OK
+'
+2023-06-06 12:06:01.262 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/277 with status: 0. Result: 'Item: 123456789/277
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/142 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/277 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/142/159 = 200 - OK
+'
+2023-06-06 12:06:06.450 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/294 with status: 0. Result: 'Item: 123456789/294
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/180 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/294 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/180/211 = 200 - OK
+'
+2023-06-06 12:06:12.950 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/293 with status: 0. Result: 'Item: 123456789/293
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/179 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/293 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/179/210 = 200 - OK
+'
+2023-06-06 12:06:19.246 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/276 with status: 0. Result: 'Item: 123456789/276
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/141 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/276 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/141/158 = 200 - OK
+'
+2023-06-06 12:06:24.121 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/300 with status: 0. Result: 'Item: 123456789/300
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/229 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/300 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/229/219 = 200 - OK
+'
+2023-06-06 12:06:29.154 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/286 with status: 0. Result: 'Item: 123456789/286
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/152 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/286 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/152/170 = 200 - OK
+'
+2023-06-06 12:06:35.496 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/296 with status: 0. Result: 'Item: 123456789/296
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/182 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/296 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/182/213 = 200 - OK
+'
+2023-06-06 12:06:41.480 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/299 with status: 0. Result: 'Item: 123456789/299
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/228 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/299 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/228/218 = 200 - OK
+'
+2023-06-06 12:06:46.449 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/280 with status: 0. Result: 'Item: 123456789/280
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/145 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/280 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/145/162 = 200 - OK
+'
+2023-06-06 12:06:51.246 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/298 with status: 0. Result: 'Item: 123456789/298
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/185 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/298 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/185/215 = 200 - OK
+'
+2023-06-06 12:06:57.480 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/304 with status: 0. Result: 'Item: 123456789/304
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/233 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/304 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/233/223 = 200 - OK
+'
+2023-06-06 12:07:03.433 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/283 with status: 0. Result: 'Item: 123456789/283
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/149 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/283 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/149/167 = 200 - OK
+'
+2023-06-06 12:07:08.198 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/288 with status: 0. Result: 'Item: 123456789/288
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/154 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/288 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/154/172 = 200 - OK
+'
+2023-06-06 12:07:13.355 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/282 with status: 0. Result: 'Item: 123456789/282
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/148 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/282 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/148/166 = 200 - OK
+'
+2023-06-06 12:07:18.386 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/301 with status: 0. Result: 'Item: 123456789/301
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/230 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/301 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/230/220 = 200 - OK
+'
+2023-06-06 12:07:24.573 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/306 with status: 0. Result: 'Item: 123456789/306
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/235 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/306 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/235/225 = 200 - OK
+'
+2023-06-06 12:07:29.542 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/287 with status: 0. Result: 'Item: 123456789/287
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/153 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/287 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/153/171 = 200 - OK
+'
+2023-06-06 12:07:34.588 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/278 with status: 0. Result: 'Item: 123456789/278
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/143 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/278 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/143/160 = 200 - OK
+'
+2023-06-06 12:07:40.401 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/292 with status: 0. Result: 'Item: 123456789/292
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/178 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/292 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/178/209 = 200 - OK
+'
+2023-06-06 12:07:45.276 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/302 with status: 0. Result: 'Item: 123456789/302
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/231 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/302 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/231/221 = 200 - OK
+'
+2023-06-06 12:07:49.994 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/305 with status: 0. Result: 'Item: 123456789/305
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/234 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/305 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/234/224 = 200 - OK
+'
+2023-06-06 12:07:55.041 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/284 with status: 0. Result: 'Item: 123456789/284
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/150 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/284 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/150/168 = 200 - OK
+'
+2023-06-06 12:07:59.932 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/275 with status: 0. Result: 'Item: 123456789/275
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/140 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/275 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/140/157 = 200 - OK
+'
+2023-06-06 12:08:06.431 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/273 with status: 0. Result: 'Item: 123456789/273
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/138 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/273 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/138/163 = 200 - OK
+'
+2023-06-06 12:08:11.244 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/295 with status: 0. Result: 'Item: 123456789/295
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/181 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/295 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/181/212 = 200 - OK
+'
+2023-06-06 12:08:16.713 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/272 with status: 0. Result: 'Item: 123456789/272
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/136 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/272 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/136/154 = 200 - OK
+'
+2023-06-06 12:08:22.119 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/285 with status: 0. Result: 'Item: 123456789/285
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/151 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/285 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/151/169 = 200 - OK
+'
+2023-06-06 12:08:26.978 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/303 with status: 0. Result: 'Item: 123456789/303
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/232 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/303 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/232/222 = 200 - OK
+'
+2023-06-06 12:08:32.243 INFO curate - 9 @ Curation task: checklinks performed on: 123456789/271 with status: 0. Result: 'Item: 123456789/271
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/134 = 200 - OK
+ - http://slmdeveaduny.uny.edu.ve/handle/123456789/271 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/134/153 = 200 - OK
+ - https://revista.uny.edu.ve/ojs/index.php/en-prospectiva/article/view/134/173 = 200 - OK
+'
+2023-06-06 12:08:32.243 INFO curate - 9 @ The script has completed

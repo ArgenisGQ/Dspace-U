@@ -1,0 +1,6 @@
+<request verb="Identify">http://slmdeveaduny.uny.edu.ve:8080/server/oai/request</request><Identify><repositoryName>Repositorio de la Universidad Yacambu - Visus</repositoryName><baseURL>http://slmdeveaduny.uny.edu.ve:8080/server/oai/request</baseURL><protocolVersion>2.0</protocolVersion><adminEmail>demtec.soptec@uny.edu.ve</adminEmail><earliestDatestamp>2023-06-06T12:56:32Z</earliestDatestamp><deletedRecord>transient</deletedRecord><granularity>YYYY-MM-DDThh:mm:ssZ</granularity><description><oai-identifier xmlns="http://www.openarchives.org/OAI/2.0/oai-identifier" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai-identifier http://www.openarchives.org/OAI/2.0/oai-identifier.xsd">
+<scheme>oai</scheme>
+<repositoryIdentifier>slmdeveaduny.uny.edu.ve</repositoryIdentifier>
+<delimiter>:</delimiter>
+<sampleIdentifier>oai:slmdeveaduny.uny.edu.ve:123456789/1234</sampleIdentifier>
+</oai-identifier></description></Identify></OAI-PMH>

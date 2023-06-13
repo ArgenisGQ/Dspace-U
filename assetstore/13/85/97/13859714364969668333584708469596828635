@@ -1,0 +1,3 @@
+2023-06-06 11:22:57.188 INFO curate - 3 @ The script has started
+2023-06-06 11:22:57.704 INFO curate - 3 @ Curation task: requiredmetadata performed on: 123456789/29 with status: 2. Result: 'Object skipped'
+2023-06-06 11:22:57.704 INFO curate - 3 @ The script has completed

@@ -1,0 +1,8 @@
+2023-06-06 12:02:27.330 INFO harvest - 7 @ The script has started
+2023-06-06 12:02:27.330 INFO harvest - 7 @ Running: a harvest cycle on 4b5893a4-4697-4953-b0a2-cde5d785c539
+2023-06-06 12:02:27.330 INFO harvest - 7 @ Initializing the harvester... 
+2023-06-06 12:02:27.330 INFO harvest - 7 @ Looking up by UUID: 4b5893a4-4697-4953-b0a2-cde5d785c539, in context: org.dspace.core.Context@68fd4473
+2023-06-06 12:02:27.345 INFO harvest - 7 @ Initialized the harvester successfully
+2023-06-06 12:02:27.345 INFO harvest - 7 @ Harvest started... 
+2023-06-06 12:02:51.985 INFO harvest - 7 @ Harvest complete. 
+2023-06-06 12:02:51.985 INFO harvest - 7 @ The script has completed

@@ -1,0 +1,6 @@
+2023-06-06 11:25:27.510 INFO harvest - 4 @ The script has started
+2023-06-06 11:25:27.510 INFO harvest - 4 @ Testing basic PMH access:  
+2023-06-06 11:25:36.698 INFO harvest - 4 @ OK
+2023-06-06 11:25:36.698 INFO harvest - 4 @ Testing ORE support:  
+2023-06-06 11:25:45.948 ERROR harvest - 4 @ oreNotSupported: The OAI server does not support ORE dissemination
+2023-06-06 11:25:45.948 INFO harvest - 4 @ The script has completed
